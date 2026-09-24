@@ -1,0 +1,985 @@
+ExamID,EnrollmentID,ExamType
+1,1,Unit Test 2
+2,2,Unit Test 2
+3,3,Viva
+4,4,Unit Test 1
+5,5,Practical
+6,6,Viva
+7,7,End Sem
+8,8,Practical
+9,9,Practical
+10,10,Unit Test 2
+11,11,Viva
+12,12,Unit Test 2
+13,13,Practical
+14,14,Unit Test 1
+15,15,End Sem
+16,16,End Sem
+17,17,Viva
+18,18,Unit Test 1
+19,19,Unit Test 2
+20,20,Viva
+21,21,Practical
+22,22,Viva
+23,23,Practical
+24,24,Unit Test 1
+25,25,End Sem
+26,26,Unit Test 1
+27,27,Unit Test 2
+28,28,Practical
+29,29,Unit Test 1
+30,30,Unit Test 1
+31,30,Unit Test 2
+32,31,Mid Sem
+33,32,End Sem
+34,33,Unit Test 2
+35,34,Unit Test 1
+36,35,Viva
+37,36,Practical
+38,37,Unit Test 2
+39,38,Mid Sem
+40,39,Viva
+41,40,Mid Sem
+42,41,Viva
+43,42,Unit Test 2
+44,43,Practical
+45,44,Viva
+46,45,End Sem
+47,46,Unit Test 1
+48,47,Unit Test 1
+49,48,Viva
+50,49,Practical
+51,50,End Sem
+52,51,Unit Test 1
+53,52,End Sem
+54,53,Unit Test 2
+55,54,Unit Test 1
+56,55,Mid Sem
+57,56,End Sem
+58,57,End Sem
+59,58,Viva
+60,59,End Sem
+61,60,Unit Test 1
+62,61,Viva
+63,62,End Sem
+64,63,Mid Sem
+65,64,End Sem
+66,65,Practical
+67,66,Unit Test 1
+68,67,End Sem
+69,68,Viva
+70,69,Practical
+71,70,End Sem
+72,71,Viva
+73,72,Unit Test 2
+74,73,Unit Test 1
+75,74,Unit Test 2
+76,73,Viva
+77,75,Viva
+78,76,Viva
+79,77,Unit Test 1
+80,78,End Sem
+81,79,End Sem
+82,80,Mid Sem
+83,81,Practical
+84,82,Viva
+85,83,Viva
+86,84,Unit Test 2
+87,85,Practical
+88,86,Unit Test 1
+89,87,End Sem
+90,88,Unit Test 1
+91,89,End Sem
+92,90,Mid Sem
+93,91,Mid Sem
+94,92,Unit Test 2
+95,93,End Sem
+96,94,Mid Sem
+97,69,Practical
+98,70,End Sem
+99,71,Viva
+100,95,Mid Sem
+101,96,Unit Test 1
+102,97,End Sem
+103,98,Viva
+104,99,Unit Test 1
+105,100,Unit Test 2
+106,101,Mid Sem
+107,102,Unit Test 2
+108,103,Unit Test 1
+109,104,Practical
+110,105,Unit Test 2
+111,106,End Sem
+112,107,Mid Sem
+113,108,Unit Test 1
+114,109,Unit Test 1
+115,110,End Sem
+116,111,Practical
+117,112,End Sem
+118,113,Unit Test 2
+119,114,Practical
+120,115,Mid Sem
+121,116,Unit Test 1
+122,117,Practical
+123,118,Practical
+124,119,Viva
+125,120,End Sem
+126,121,Practical
+127,122,Mid Sem
+128,123,Unit Test 2
+129,124,Viva
+130,125,End Sem
+131,126,Practical
+132,127,Practical
+133,128,Unit Test 2
+134,129,End Sem
+135,130,Viva
+136,131,Mid Sem
+137,132,End Sem
+138,133,Practical
+139,134,Mid Sem
+140,135,Unit Test 1
+141,136,Mid Sem
+142,137,Unit Test 1
+143,138,Unit Test 1
+144,139,Practical
+145,140,Unit Test 2
+146,141,End Sem
+147,142,Mid Sem
+148,143,Mid Sem
+149,144,Unit Test 2
+150,145,Mid Sem
+151,146,Mid Sem
+152,147,Viva
+153,148,Unit Test 2
+154,149,End Sem
+155,150,Unit Test 2
+156,151,Viva
+157,152,End Sem
+158,153,Mid Sem
+159,95,Mid Sem
+160,96,Unit Test 1
+161,97,End Sem
+162,154,Unit Test 1
+163,155,End Sem
+164,156,Unit Test 2
+165,157,Practical
+166,158,Unit Test 1
+167,159,Unit Test 1
+168,160,Unit Test 2
+169,161,Viva
+170,162,End Sem
+171,163,End Sem
+172,164,Viva
+173,165,Viva
+174,166,Mid Sem
+175,167,Viva
+176,168,End Sem
+177,169,Mid Sem
+178,170,Practical
+179,171,Practical
+180,172,End Sem
+181,173,Mid Sem
+182,174,Mid Sem
+183,175,Unit Test 2
+184,176,Unit Test 1
+185,177,Practical
+186,178,Viva
+187,179,Mid Sem
+188,180,Practical
+189,181,Viva
+190,182,Practical
+191,183,Viva
+192,184,Unit Test 2
+193,185,Practical
+194,186,Unit Test 1
+195,187,Unit Test 1
+196,188,Unit Test 2
+197,189,End Sem
+198,190,Mid Sem
+199,191,Unit Test 2
+200,192,Practical
+201,193,Practical
+202,194,End Sem
+203,195,Viva
+204,196,End Sem
+205,197,Practical
+206,198,Practical
+207,199,Unit Test 1
+208,200,Unit Test 2
+209,201,Mid Sem
+210,202,Viva
+211,203,Practical
+212,204,Unit Test 2
+213,205,Unit Test 1
+214,154,Unit Test 1
+215,155,End Sem
+216,206,Unit Test 1
+217,207,Unit Test 1
+218,208,Unit Test 1
+219,209,Mid Sem
+220,210,Practical
+221,211,Unit Test 1
+222,212,Mid Sem
+223,213,Viva
+224,214,Practical
+225,215,Practical
+226,216,Unit Test 1
+227,217,Viva
+228,218,Unit Test 2
+229,219,Unit Test 1
+230,220,End Sem
+231,221,End Sem
+232,222,Viva
+233,223,Unit Test 2
+234,224,Unit Test 2
+235,225,Practical
+236,226,Viva
+237,227,Practical
+238,228,End Sem
+239,229,Viva
+240,230,Viva
+241,231,Unit Test 2
+242,232,Unit Test 2
+243,233,Unit Test 1
+244,234,Practical
+245,235,End Sem
+246,236,Viva
+247,237,Viva
+248,238,Unit Test 1
+249,239,Unit Test 1
+250,240,Unit Test 1
+251,241,Practical
+252,242,End Sem
+253,243,Mid Sem
+254,244,Viva
+255,245,Viva
+256,246,End Sem
+257,247,Mid Sem
+258,248,Mid Sem
+259,249,Practical
+260,250,Viva
+261,251,Mid Sem
+262,252,Unit Test 2
+263,253,Mid Sem
+264,254,Mid Sem
+265,255,End Sem
+266,256,Practical
+267,257,Unit Test 2
+268,258,Practical
+269,259,Mid Sem
+270,260,Practical
+271,261,Viva
+272,262,Unit Test 2
+273,263,Practical
+274,264,Practical
+275,265,Unit Test 2
+276,266,Unit Test 1
+277,267,Practical
+278,268,Unit Test 1
+279,269,Practical
+280,270,Practical
+281,271,Viva
+282,272,Practical
+283,273,Unit Test 2
+284,274,Viva
+285,275,Viva
+286,276,Viva
+287,277,Practical
+288,277,End Sem
+289,278,End Sem
+290,279,Mid Sem
+291,280,End Sem
+292,1,Unit Test 2
+293,2,Unit Test 2
+294,3,Viva
+295,4,Unit Test 1
+296,5,Practical
+297,6,Viva
+298,7,End Sem
+299,8,Practical
+300,9,Practical
+301,10,Unit Test 2
+302,11,Viva
+303,12,Unit Test 2
+304,13,Practical
+305,14,Unit Test 1
+306,15,End Sem
+307,16,End Sem
+308,17,Viva
+309,18,Unit Test 1
+310,19,Unit Test 2
+311,20,Viva
+312,21,Practical
+313,22,Viva
+314,23,Practical
+315,24,Unit Test 1
+316,25,End Sem
+317,26,Unit Test 1
+318,27,Unit Test 2
+319,28,Practical
+320,29,Unit Test 1
+321,30,Unit Test 1
+322,30,Unit Test 2
+323,31,Mid Sem
+324,32,End Sem
+325,33,Unit Test 2
+326,34,Unit Test 1
+327,35,Viva
+328,36,Practical
+329,37,Unit Test 2
+330,38,Mid Sem
+331,39,Viva
+332,40,Mid Sem
+333,41,Viva
+334,42,Unit Test 2
+335,43,Practical
+336,44,Viva
+337,45,End Sem
+338,46,Unit Test 1
+339,47,Unit Test 1
+340,48,Viva
+341,49,Practical
+342,50,End Sem
+343,51,Unit Test 1
+344,52,End Sem
+345,53,Unit Test 2
+346,54,Unit Test 1
+347,55,Mid Sem
+348,56,End Sem
+349,57,End Sem
+350,58,Viva
+351,59,End Sem
+352,60,Unit Test 1
+353,61,Viva
+354,62,End Sem
+355,63,Mid Sem
+356,64,End Sem
+357,65,Practical
+358,66,Unit Test 1
+359,67,End Sem
+360,68,Viva
+361,69,Practical
+362,70,End Sem
+363,71,Viva
+364,72,Unit Test 2
+365,73,Unit Test 1
+366,74,Unit Test 2
+367,73,Viva
+368,75,Viva
+369,76,Viva
+370,77,Unit Test 1
+371,78,End Sem
+372,79,End Sem
+373,80,Mid Sem
+374,81,Practical
+375,82,Viva
+376,83,Viva
+377,84,Unit Test 2
+378,85,Practical
+379,86,Unit Test 1
+380,87,End Sem
+381,88,Unit Test 1
+382,89,End Sem
+383,90,Mid Sem
+384,91,Mid Sem
+385,92,Unit Test 2
+386,93,End Sem
+387,94,Mid Sem
+388,69,Practical
+389,70,End Sem
+390,71,Viva
+391,95,Mid Sem
+392,96,Unit Test 1
+393,97,End Sem
+394,98,Viva
+395,99,Unit Test 1
+396,100,Unit Test 2
+397,101,Mid Sem
+398,102,Unit Test 2
+399,103,Unit Test 1
+400,104,Practical
+401,105,Unit Test 2
+402,106,End Sem
+403,107,Mid Sem
+404,1,Unit Test 2
+405,2,Unit Test 2
+406,2,Viva
+407,4,Unit Test 1
+408,5,Practical
+409,281,Viva
+410,7,End Sem
+411,8,Practical
+412,282,Practical
+413,10,Unit Test 2
+414,11,Viva
+415,11,Unit Test 3
+416,1,Unit Test 2
+417,2,Unit Test 2
+418,2,Viva
+419,4,Unit Test 1
+420,5,Practical
+421,281,Viva
+422,7,End Sem
+423,8,Practical
+424,282,Practical
+425,10,Unit Test 2
+426,11,Viva
+427,11,Unit Test 3
+428,13,Practical
+429,14,Unit Test 1
+430,15,End Sem
+431,283,End Sem
+432,17,Viva
+433,284,Unit Test 2
+434,19,Unit Test 2
+435,20,Viva
+436,21,Practical
+437,285,Viva
+438,23,Practical
+439,286,Unit Test 2
+440,25,End Sem
+441,287,Unit Test 2
+442,27,Unit Test 2
+443,28,Practical
+444,288,Unit Test 2
+445,30,Unit Test 1
+446,289,Unit Test 3
+447,31,Mid Sem
+448,32,End Sem
+449,290,Unit Test 3
+450,34,Unit Test 1
+451,35,Viva
+452,36,Practical
+453,291,Unit Test 3
+454,38,Mid Sem
+455,39,Viva
+456,40,Mid Sem
+457,40,Viva
+458,42,Unit Test 2
+459,292,Practical
+460,44,Viva
+461,45,End Sem
+462,46,Unit Test 1
+463,293,Unit Test 2
+464,1,Unit Test 2
+465,2,Unit Test 2
+466,2,Viva
+467,4,Unit Test 1
+468,5,Practical
+469,281,Viva
+470,7,End Sem
+471,8,Practical
+472,282,Practical
+473,10,Unit Test 2
+474,11,Viva
+475,11,Unit Test 3
+476,13,Practical
+477,14,Unit Test 1
+478,15,End Sem
+479,283,End Sem
+480,17,Viva
+481,284,Unit Test 2
+482,19,Unit Test 2
+483,20,Viva
+484,21,Practical
+485,285,Viva
+486,23,Practical
+487,286,Unit Test 2
+488,25,End Sem
+489,287,Unit Test 2
+490,27,Unit Test 2
+491,28,Practical
+492,288,Unit Test 2
+493,30,Unit Test 1
+494,289,Unit Test 3
+495,31,Mid Sem
+496,32,End Sem
+497,290,Unit Test 3
+498,34,Unit Test 1
+499,35,Viva
+500,36,Practical
+501,291,Unit Test 3
+502,38,Mid Sem
+503,39,Viva
+504,40,Mid Sem
+505,40,Viva
+506,42,Unit Test 2
+507,292,Practical
+508,1,Unit Test 2
+509,2,Unit Test 2
+510,2,Viva
+511,4,Unit Test 1
+512,5,Practical
+513,281,Viva
+514,7,End Sem
+515,8,Practical
+516,282,Practical
+517,10,Unit Test 2
+518,11,Viva
+519,11,Unit Test 3
+520,13,Practical
+521,14,Unit Test 1
+522,15,End Sem
+523,283,End Sem
+524,17,Viva
+525,284,Unit Test 2
+526,19,Unit Test 2
+527,20,Viva
+528,21,Practical
+529,285,Viva
+530,23,Practical
+531,286,Unit Test 2
+532,25,End Sem
+533,287,Unit Test 2
+534,27,Unit Test 2
+535,28,Practical
+536,288,Unit Test 2
+537,30,Unit Test 1
+538,289,Unit Test 3
+539,31,Mid Sem
+540,32,End Sem
+541,290,Unit Test 3
+542,34,Unit Test 1
+543,35,Viva
+544,36,Practical
+545,291,Unit Test 3
+546,38,Mid Sem
+547,39,Viva
+548,40,Mid Sem
+549,40,Viva
+550,42,Unit Test 2
+551,292,Practical
+552,44,Viva
+553,45,End Sem
+554,46,Unit Test 1
+555,293,Unit Test 2
+556,48,Viva
+557,49,Practical
+558,50,End Sem
+559,48,Unit Test 2
+560,52,End Sem
+561,53,Unit Test 2
+562,294,Unit Test 2
+563,55,Mid Sem
+564,295,End Sem
+565,57,End Sem
+566,296,Viva
+567,59,End Sem
+568,60,Unit Test 1
+569,61,Viva
+570,297,End Sem
+571,63,Mid Sem
+572,298,End Sem
+573,65,Practical
+574,66,Unit Test 1
+575,67,End Sem
+576,65,Viva
+577,69,Practical
+578,70,End Sem
+579,299,Viva
+580,72,Unit Test 2
+581,73,Unit Test 1
+582,74,Unit Test 2
+583,300,Viva
+584,75,Viva
+585,301,Viva
+586,77,Unit Test 1
+587,78,End Sem
+588,78,End Sem
+589,80,Mid Sem
+590,302,Practical
+591,1,Unit Test 2
+592,2,Unit Test 2
+593,2,Viva
+594,4,Unit Test 1
+595,5,Practical
+596,281,Viva
+597,7,End Sem
+598,8,Practical
+599,282,Practical
+600,10,Unit Test 2
+601,11,Viva
+602,11,Unit Test 3
+603,13,Practical
+604,14,Unit Test 1
+605,15,End Sem
+606,283,End Sem
+607,17,Viva
+608,284,Unit Test 2
+609,1,Unit Test 2
+610,2,Unit Test 2
+611,2,Viva
+612,4,Unit Test 1
+613,5,Practical
+614,281,Viva
+615,7,End Sem
+616,8,Practical
+617,282,Practical
+618,10,Unit Test 2
+619,11,Viva
+620,11,Unit Test 3
+621,13,Practical
+622,14,Unit Test 1
+623,15,End Sem
+624,283,End Sem
+625,17,Viva
+626,284,Unit Test 2
+627,19,Unit Test 2
+628,20,Viva
+629,21,Practical
+630,285,Viva
+631,23,Practical
+632,286,Unit Test 2
+633,25,End Sem
+634,287,Unit Test 2
+635,27,Unit Test 2
+636,28,Practical
+637,288,Unit Test 2
+638,30,Unit Test 1
+639,289,Unit Test 3
+640,31,Mid Sem
+641,32,End Sem
+642,290,Unit Test 3
+643,34,Unit Test 1
+644,35,Viva
+645,36,Practical
+646,291,Unit Test 3
+647,38,Mid Sem
+648,39,Viva
+649,40,Mid Sem
+650,40,Viva
+651,42,Unit Test 2
+652,292,Practical
+653,44,Viva
+654,45,End Sem
+655,46,Unit Test 1
+656,293,Unit Test 2
+657,48,Viva
+658,49,Practical
+659,50,End Sem
+660,48,Unit Test 2
+661,52,End Sem
+662,53,Unit Test 2
+663,294,Unit Test 2
+664,55,Mid Sem
+665,295,End Sem
+666,57,End Sem
+667,296,Viva
+668,59,End Sem
+669,60,Unit Test 1
+670,61,Viva
+671,297,End Sem
+672,63,Mid Sem
+673,298,End Sem
+674,65,Practical
+675,66,Unit Test 1
+676,67,End Sem
+677,65,Viva
+678,69,Practical
+679,70,End Sem
+680,299,Viva
+681,72,Unit Test 2
+682,73,Unit Test 1
+683,74,Unit Test 2
+684,300,Viva
+685,75,Viva
+686,301,Viva
+687,77,Unit Test 1
+688,78,End Sem
+689,78,End Sem
+690,80,Mid Sem
+691,302,Practical
+692,82,Viva
+693,303,Viva
+694,84,Unit Test 2
+695,304,Practical
+696,86,Unit Test 1
+697,87,End Sem
+698,88,Unit Test 1
+699,305,End Sem
+700,90,Mid Sem
+701,306,Mid Sem
+702,92,Unit Test 2
+703,93,End Sem
+704,307,Mid Sem
+705,69,Practical
+706,70,End Sem
+707,299,Viva
+708,95,Mid Sem
+709,96,Unit Test 1
+710,308,End Sem
+711,98,Viva
+712,99,Unit Test 1
+713,309,Unit Test 3
+714,101,Mid Sem
+715,102,Unit Test 2
+716,103,Unit Test 1
+717,310,Practical
+718,105,Unit Test 2
+719,106,End Sem
+720,311,Mid Sem
+721,108,Unit Test 1
+722,312,Unit Test 2
+723,110,End Sem
+724,313,Practical
+725,112,End Sem
+726,113,Unit Test 2
+727,314,Practical
+728,115,Mid Sem
+729,315,Unit Test 1
+730,117,Practical
+731,118,Practical
+732,316,Viva
+733,120,End Sem
+734,317,Practical
+735,122,Mid Sem
+736,123,Unit Test 2
+737,124,Viva
+738,318,End Sem
+739,126,Practical
+740,127,Practical
+741,128,Unit Test 2
+742,319,End Sem
+743,130,Viva
+744,131,Mid Sem
+745,320,End Sem
+746,133,Practical
+747,134,Mid Sem
+748,135,Unit Test 1
+749,321,Mid Sem
+750,137,Unit Test 1
+751,137,Unit Test 2
+752,139,Practical
+753,322,Unit Test 3
+754,141,End Sem
+755,142,Mid Sem
+756,323,Mid Sem
+757,144,Unit Test 2
+758,145,Mid Sem
+759,146,Mid Sem
+760,324,Viva
+761,148,Unit Test 2
+762,149,End Sem
+763,325,Unit Test 3
+764,151,Viva
+765,152,End Sem
+766,326,Mid Sem
+767,95,Mid Sem
+768,96,Unit Test 1
+769,308,End Sem
+770,154,Unit Test 1
+771,327,End Sem
+772,156,Unit Test 2
+773,328,Practical
+774,158,Unit Test 1
+775,159,Unit Test 1
+776,329,Unit Test 3
+777,161,Viva
+778,162,End Sem
+779,163,End Sem
+780,330,Viva
+781,165,Viva
+782,331,Mid Sem
+783,167,Viva
+784,332,End Sem
+785,333,Internal
+786,334,Internal
+787,335,End Sem
+788,336,Internal
+789,337,End Sem
+790,338,Mid Sem
+791,339,Practical
+792,340,End Sem
+793,341,Internal
+794,342,Practical
+795,343,Internal
+796,344,Practical
+797,345,Internal
+798,346,Mid Sem
+799,347,End Sem
+800,348,End Sem
+801,349,Practical
+802,350,End Sem
+803,351,Mid Sem
+804,352,End Sem
+805,353,Mid Sem
+806,354,Internal
+807,355,End Sem
+808,356,Mid Sem
+809,357,End Sem
+810,358,Practical
+811,359,Mid Sem
+812,360,Practical
+813,361,Mid Sem
+814,362,End Sem
+815,363,Mid Sem
+816,364,Practical
+817,365,Internal
+818,366,End Sem
+819,367,End Sem
+820,368,Mid Sem
+821,369,Practical
+822,370,End Sem
+823,371,Mid Sem
+824,372,Internal
+825,373,Mid Sem
+826,374,End Sem
+827,375,Mid Sem
+828,376,Practical
+829,377,End Sem
+830,378,Practical
+831,379,Practical
+832,380,End Sem
+833,381,Mid Sem
+834,382,Mid Sem
+835,383,Internal
+836,384,Internal
+837,385,Internal
+838,386,Mid Sem
+839,387,Practical
+840,388,End Sem
+841,389,End Sem
+842,390,Practical
+843,391,Mid Sem
+844,392,Mid Sem
+845,393,Practical
+846,394,End Sem
+847,395,Mid Sem
+848,396,Internal
+849,397,Mid Sem
+850,398,Mid Sem
+851,399,End Sem
+852,400,End Sem
+853,401,End Sem
+854,402,Practical
+855,403,End Sem
+856,404,Practical
+857,405,Internal
+858,406,End Sem
+859,407,Practical
+860,408,Practical
+861,409,End Sem
+862,410,Mid Sem
+863,411,End Sem
+864,412,Mid Sem
+865,413,End Sem
+866,414,End Sem
+867,415,Internal
+868,416,Mid Sem
+869,417,End Sem
+870,418,Practical
+871,419,Practical
+872,420,Practical
+873,421,Practical
+874,422,Mid Sem
+875,423,Mid Sem
+876,424,Practical
+877,425,Internal
+878,426,Internal
+879,427,Mid Sem
+880,428,End Sem
+881,429,Practical
+882,430,Internal
+883,431,Mid Sem
+884,432,Practical
+885,433,Internal
+886,434,Practical
+887,435,Internal
+888,436,End Sem
+889,437,Internal
+890,438,Mid Sem
+891,439,End Sem
+892,440,Internal
+893,441,Mid Sem
+894,442,Internal
+895,443,End Sem
+896,444,Practical
+897,445,End Sem
+898,446,End Sem
+899,447,Practical
+900,448,End Sem
+901,449,End Sem
+902,450,Mid Sem
+903,451,Internal
+904,452,Internal
+905,453,Practical
+906,454,Practical
+907,455,Internal
+908,456,Practical
+909,457,End Sem
+910,458,Internal
+911,459,Mid Sem
+912,460,Practical
+913,461,Internal
+914,462,Practical
+915,463,Mid Sem
+916,464,Internal
+917,465,Mid Sem
+918,466,End Sem
+919,467,Mid Sem
+920,468,Internal
+921,469,Internal
+922,470,End Sem
+923,471,Internal
+924,472,Internal
+925,473,End Sem
+926,474,End Sem
+927,475,Mid Sem
+928,476,Mid Sem
+929,477,Practical
+930,478,End Sem
+931,479,Practical
+932,480,Mid Sem
+933,481,Mid Sem
+934,482,Practical
+935,483,Practical
+936,484,Mid Sem
+937,485,End Sem
+938,486,End Sem
+939,487,Internal
+940,488,End Sem
+941,489,End Sem
+942,490,Internal
+943,491,Internal
+944,492,End Sem
+945,493,Practical
+946,494,Practical
+947,495,Mid Sem
+948,496,End Sem
+949,497,Internal
+950,498,Internal
+951,499,Internal
+952,500,End Sem
+953,501,Practical
+954,502,Internal
+955,503,Internal
+956,504,End Sem
+957,505,End Sem
+958,506,End Sem
+959,507,Practical
+960,508,Practical
+961,509,End Sem
+962,510,Internal
+963,511,End Sem
+964,512,Practical
+965,513,Practical
+966,514,Practical
+967,515,End Sem
+968,516,Mid Sem
+969,517,Internal
+970,518,End Sem
+971,519,Practical
+972,520,Internal
+973,521,Practical
+974,522,Internal
+975,523,End Sem
+976,524,Internal
+977,525,Internal
+978,526,Mid Sem
+979,527,Mid Sem
+980,528,End Sem
+981,529,Practical
+982,530,Mid Sem
+983,531,Internal
+984,532,Practical

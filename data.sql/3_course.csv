@@ -1,0 +1,31 @@
+CourseID,CourseName,DepartmentID,Credits
+C102,DBMS,D01,3
+C109,Python Prog.,D02,3
+C108,Web Technology,D05,3
+C101,Data Structures,D01,3
+C110,Artificial Intelligence,D05,3
+C112,Thermodynamics,D02,3
+C111,Analog Electronics,D01,3
+C103,Operating Systems,D01,3
+C113,Structural Analysis,D01,3
+C104,Computer Networks,D01,3
+C115,Cloud Computing,D02,3
+C106,Digital Logic Design,D01,3
+C107,Software Engineering,D02,3
+C105,Machine Learning,D04,3
+C114,VHDL & Digital Systems,D04,3
+C116,Cloud Computing,D02,3
+C129,Data Structures,D05,3
+C143,Cloud Computing,D03,3
+C303,Signals,D03,3
+C302,Microprocessors,D03,3
+C202,Networking,D02,3
+C201,Python,D02,3
+C301,Digital,D03,3
+C203,Web Dev,D02,3
+C502,Structures,D05,3
+C501,Surveying,D05,3
+C503,Concrete,D05,3
+C403,Machine Design,D04,3
+C401,Thermo,D04,3
+C402,CAD,D04,3
